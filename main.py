@@ -83,15 +83,3 @@ def play_again():
     lets_play()
 
 game_start()  
-
-#if human_choice > computer_choice:
-  #print ("This stupid, silly computer picked " + computer_choice +"!!")
-  #print ("Human is lucky, human beat the almighty computer!")
-#elif human_choice < computer_choice:
-  #print ("Computer picked " + computer_choice)
-  #print ("HA, HA, HA, computer beats you, human scum.")
-#else:
-  #print ("How predictable, both human and computer picked " + human_choice)
-  #print ("That was boring, try again")
-  #time.sleep(3)
-  #lets_play()
