@@ -1,0 +1,3 @@
+Just a simple code to play Rock, Paper, Scissors.
+
+NO GUI. Just text input based. Game asks if you want to continue playing after each round, accepts YES or NO as answers. No will end the game.
